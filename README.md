@@ -1,5 +1,7 @@
 # Artifact Hash Guard · Java
 
+**Área do portfólio:** [Desenvolvimento de Software](https://github.com/alefkaue#desenvolvimento-de-software) · **Contexto:** Projeto pessoal
+
 [![Tests](https://github.com/alefkaue/artifact-hash-guard/actions/workflows/tests.yml/badge.svg)](https://github.com/alefkaue/artifact-hash-guard/actions/workflows/tests.yml)
 
 Verificador offline de integridade de artefatos com **Java e SHA-256**. Compara arquivos com hashes esperados em um manifesto, identificando conteúdo divergente ou arquivo ausente. Não modifica os artefatos.
